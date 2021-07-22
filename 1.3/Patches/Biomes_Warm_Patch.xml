@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/BiomeDef[defName="TropicalRainforest"]/wildAnimals</xpath>
+		<value>
+			<Meerkat>0.5</Meerkat>
+		</value>
+	</Operation>
+</Patch>

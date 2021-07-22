@@ -1,0 +1,4 @@
+**/Source/SourceDlls/*.dll
+**/.vs
+**/bin
+**/obj
